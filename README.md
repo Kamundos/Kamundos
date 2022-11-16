@@ -6,8 +6,8 @@ I am currently pursuing my bachelors in Data Science at the University of Tennes
 
 **👀 Outside of school I enjoy**
 
-Writing: I run a blog [natlynn.com](https://natlynn.com), where I share tips about lifestyle living.
-Voluntering: I serve 
+Writing: I run a blog [natlynn.com](https://natlynn.com), where I share tips about lifestyle living.\
+Voluntering: I volunteer at Women In Tech. \
 Eating carbs: All forms of bread and pasta are my life\
 📚 Learning: Did I mention, I love expanding my knowledge bandwidth. Recommend me your favorite LinkedIN Learning Courses. 
   <p>&nbsp;</p>
@@ -16,7 +16,8 @@ Eating carbs: All forms of bread and pasta are my life\
 **🌱 I’m currently learning **
 - As I am still fairly new to the field, 
 
-Machine Learning - The fundamental concepts of machine learning * Linear Regression, Logistic Regression , Classification
+Machine Learning - The fundamental concepts of machine learning * Linear Regression, Logistic Regression , Classification\
+
 🔧 More advanced uses of Python, R, Power BI, Tableau and SQL  
 <p>&nbsp;</p>  
 
