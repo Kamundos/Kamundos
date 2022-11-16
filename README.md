@@ -16,9 +16,9 @@
 🔧 More advanced uses of Python, R, Power BI, Tableau and SQL  
 <p>&nbsp;</p>  
 
-**📫 How to reach me**
+**📫 Connect with ME **
 
-⛓ https://www.linkedin.com/in/meganlieu/
+⛓ www.linkedin.com/in/nathelenwanjiru
 
 <!---
 Kamoundos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
