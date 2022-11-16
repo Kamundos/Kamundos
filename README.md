@@ -6,10 +6,10 @@ I am currently pursuing my bachelors in Data Science at the University of Tennes
 
 **👀 Outside of school I enjoy**
 
-Writing: I run a blog [natlynn.com](https://natlynn.com), where I share tips about lifestyle living.\
-Voluntering: I volunteer at Women In Tech. \
-Eating carbs: All forms of bread and pasta are my life\
-📚 Learning: Did I mention, I love expanding my knowledge bandwidth. Recommend me your favorite LinkedIN Learning Courses. 
+- Writing: I run a blog [natlynn.com](https://natlynn.com), where I share tips about lifestyle living.\
+- Voluntering: I volunteer at Women In Tech. \
+- Eating carbs: All forms of bread and pasta are my life\
+- 📚 Learning: Did I mention, I love expanding my knowledge bandwidth. Recommend me your favorite LinkedIN Learning Courses. 
   <p>&nbsp;</p>
   
 
