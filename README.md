@@ -29,12 +29,14 @@ Stretch Goals:
 * Learn how to swim
 * Publish 20
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ** Connect/Collaborate with ME **
 
-LinkedIN: www.linkedin.com/in/nathelenwanjiru
+LinkedIN: www.linkedin.com/in/nathelenwanjiru \
 Email: nwanjiru@vols.utk.edu
 
 <!---
-Kamoundos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kamundos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
