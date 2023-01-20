@@ -21,6 +21,14 @@ Machine Learning - The fundamental concepts of machine learning * Linear Regress
 🔧 More advanced uses of Python, R, Power BI, Tableau and SQL  
 <p>&nbsp;</p>  
 
+2023 Goals | Progress Tracker
+* Read 20 books - Data Science Focused
+* Complete 200 ML Projects
+
+Stretch Goals:
+* Learn how to swim
+* Publish 20
+
 ** Connect/Collaborate with ME **
 
 LinkedIN: www.linkedin.com/in/nathelenwanjiru
