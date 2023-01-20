@@ -18,8 +18,13 @@ I'm currently pursuing my bachelors in Data Science at the University of Tenness
 
 Machine Learning - The fundamental concepts of machine learning * Linear Regression, Logistic Regression , Classification\
 
-🔧 More advanced uses of Python, R, Power BI, Tableau and SQL  
+Data Visualization
+* Tableau 
+
+🔧 More advanced uses of Python, R, Power BI,and SQL  
 <p>&nbsp;</p>  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2023 Goals | Progress Tracker
 * Read 20 books - Data Science Focused
