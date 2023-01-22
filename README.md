@@ -14,7 +14,6 @@ I'm currently pursuing my bachelors in Data Science at the University of Tenness
 - 📚 Learning: Did I mention, I love expanding my knowledge bandwidth. Recommend me your favorite LinkedIN Learning Courses. 
   <p>&nbsp;</p>
   
-
 **🌱 I’m currently learning**
 - Data Warehousing
 - Data Management & Stewardship 
@@ -49,7 +48,10 @@ You can click the Preview link to take a look at your changes.
 
 <details>
  <summary><h5>👨‍💻 Nat's Data Science Journey</h3></summary>
-   I started my coding journey when I made the switch from engineering to data science late in my junior year in college because I couldn't see myself being anything else but as a data nerd (and it's seriuosly the best decision I've ever made). Ever since I've been playing catch up with not only my data science classes but also with my hard skills and I've relied on self learning to understand the data science field and get as much real world project analysis exposure as I could.
+   I started my ds journey when I made the switch from engineering to data science late in my junior year in college because I couldn't see myself being anything else but as a data nerd (and it's seriuosly the best decision I've ever made). Ever since I've been playing catch up with not only my data science classes but also with my hard skills and I've relied on self learning to understand the data science field and get as much real world project analysis exposure as I could.
+  <li>Fall 2022
+    * Data 201
+    * COSC 111 </li>
  Quick overview of my courses:
   Fall 2022
     * Data 201
