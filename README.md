@@ -30,7 +30,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
   ** ML - 0/100
   ** DA - 1/100
 
-**Stretch Goals:
+**Stretch Goals:**
 * Learn how to swim
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
