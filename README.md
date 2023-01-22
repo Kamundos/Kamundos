@@ -11,7 +11,6 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - A machine learning project that predicts customer churn for a telecommunications company
 - An NLP project that uses machine learning to classify customer feedback on a e-commerce website
 - A data visualization project that explores the relationship between crime rates and income in major US cities
-- Machine Learning - I'm taking LinkedIN courses to learn the fundamental concepts of ML. 
 <p>&nbsp;</p> 
 
 **👀Outside of school I enjoy:**
