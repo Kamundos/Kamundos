@@ -16,8 +16,9 @@ I'm currently pursuing my bachelors in Data Science at the University of Tenness
   
 
 **🌱 I’m currently learning**
-- Machine Learning - The fundamental concepts of machine learning
-- Data Visualization 
+- Data Warehousing
+- Data Management & Stewardship 
+- Machine Learning - I'm taking LinkedIN courses to learn the fundamental concepts of ML. 
 
 <p>&nbsp;</p>  
 
