@@ -1,8 +1,31 @@
-# 🧚🏽‍♂️  Hi, Meet NatNerd!
+# 🧚🏽‍♂️  Hi & Welcome to my GitHub profile!
 
 **`Almost Data Scientist`**
 
+I am a data science student at the University of Tennessee, where I am honing my skills in machine learning, statistical modeling, and data visualization. I am passionate about using data to solve real-world problems and drive business decisions and my passion has led me to take on a research project under Dr. Jiagen He,CCI Research & Innovation, where the team is <a href="https://hbcumobility.cci.drexel.edu">analyzing the retention rate for professors at HBCUs</a>. 
+
 I'm currently pursuing my bachelors in Data Science at the University of Tennessee, Go VOLS! I'm a ride or die passionate data scientist currently working on a research project under Dr. Jiagen He, CCI Research & Innovation analyzing the retention Professor Rate at HBCUs. Also, I enjoy perfoming analyses that draw insights for business impact in eCommerce, banking, real estate, healthcare, etc. 
+... 
+
+On this profile, you will find a variety of projects that showcase my skills and interests in the field of data science. From predictive modeling to data visualization, I have worked on a diverse set of projects that demonstrate my ability to tackle complex problems and extract meaningful insights from data.
+
+Some of the highlights of my portfolio include:
+
+A machine learning project that predicts customer churn for a telecommunications company
+A data visualization project that explores the relationship between crime rates and income in major US cities
+An NLP project that uses machine learning to classify customer feedback on a e-commerce website
+I am always looking for new and exciting opportunities to apply my skills and continue learning. If you have a project or problem that you think I can help with, feel free to reach out!
+
+
+
+
+
+
+
+
+
+
+
 
 <p>&nbsp;</p> 
 
