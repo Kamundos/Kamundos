@@ -1,4 +1,4 @@
-# 🧚🏽‍♂️  Hi & Welcome to my GitHub profile!
+# 🧚🏽‍♂️ Hi, Welcome to my Nat's profile!
 
 **`Almost Data Scientist`**
 
