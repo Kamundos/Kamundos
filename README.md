@@ -13,7 +13,7 @@ I'm currently pursuing my bachelors in Data Science at the University of Tenness
   <p>&nbsp;</p>
   
 
-**🌱 I’m currently learning **
+**🌱 I’m currently learning**
 - As I am still fairly new to the field, 
 
 Machine Learning - The fundamental concepts of machine learning * Linear Regression, Logistic Regression , Classification\
