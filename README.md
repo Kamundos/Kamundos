@@ -6,7 +6,7 @@ I am a data science student at the University of Tennessee, where I am honing my
 
 Here, you will find a variety of projects that showcase my skills and interests in the field of data science. From predictive modeling to data visualization, I have worked on a diverse set of projects that demonstrate my ability to tackle complex problems and extract meaningful insights from data in various eCommerce, banking, real estate, healthcare, etc. 
 
-**🌱 Some of the highlights of my portfolio:**
+**🌱Some of the highlights of my portfolio:**
 
 - A machine learning project that predicts customer churn for a telecommunications company
 - An NLP project that uses machine learning to classify customer feedback on a e-commerce website
@@ -15,7 +15,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 
 <p>&nbsp;</p> 
 
-**👀 Outside of school I enjoy: **
+**👀Outside of school I enjoy:**
 
 - Voluntering: I volunteer at Women In Tech. 
 - Eating carbs: All forms of bread and pasta are my life. 
