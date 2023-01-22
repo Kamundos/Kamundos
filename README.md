@@ -14,21 +14,18 @@ I'm currently pursuing my bachelors in Data Science at the University of Tenness
   
 
 **🌱 I’m currently learning**
-- As I am still fairly new to the field, 
+- Machine Learning - The fundamental concepts of machine learning
+- Data Visualization 
 
-Machine Learning - The fundamental concepts of machine learning * Linear Regression, Logistic Regression , Classification\
-
-Data Visualization
-* Tableau 
-
-🔧 More advanced uses of Python, R, Power BI,and SQL  
 <p>&nbsp;</p>  
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2023 Goals | Progress Tracker
 * Read 20 books - Data Science Focused
-* Complete 200 ML Projects
+* Complete 100 ML and 100 DA Projects
+  ** ML - 0/100
+  ** DA - 1/100
 
 Stretch Goals:
 * Learn how to swim
