@@ -11,7 +11,6 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - A machine learning project that predicts customer churn for a telecommunications company
 - An NLP project that uses machine learning to classify customer feedback on a e-commerce website
 - A data visualization project that explores the relationship between crime rates and income in major US cities
-<p>&nbsp;</p> 
 
 **👀 Outside of school I enjoy:**
 
@@ -19,6 +18,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - Eating carbs: All forms of bread and pasta are my life. 
 - 👩🏽‍💻 Writing: I run a blog [natlynn.com](https://natlynn.com), where I share tips about lifestyle living. 
 - 📚 Learning: As I'm still new, I love expanding my knowledge bandwidth. Recommend me your favorite LinkedIN Learning Courses. 
+  
   <p>&nbsp;</p>
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,12 +32,15 @@ Here, you will find a variety of projects that showcase my skills and interests 
 **Stretch Goals:**
 * Learn how to swim
 
+<p>&nbsp;</p> 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ** Connect/Collaborate with ME **
 
 LinkedIN: www.linkedin.com/in/nathelenwanjiru \
 Email: nwanjiru@vols.utk.edu
+<p>&nbsp;</p> 
 
 <!---
 Kamundos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
