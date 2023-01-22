@@ -13,7 +13,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - A data visualization project that explores the relationship between crime rates and income in major US cities
 <p>&nbsp;</p> 
 
-**👀Outside of school I enjoy:**
+**👀 Outside of school I enjoy:**
 
 - Voluntering: I volunteer at Women In Tech. 
 - Eating carbs: All forms of bread and pasta are my life. 
