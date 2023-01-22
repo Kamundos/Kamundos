@@ -29,8 +29,8 @@ Here, you will find a variety of projects that showcase my skills and interests 
 **2023 Goals | Progress Tracker:**
 - Read 20 books - Data Science Focused
 - Complete 100 ML and 100 DA Projects
-  ** ML - 0/100
-  ** DA - 1/100
+- * ML - 0/100
+- * DA - 1/100
 
 **Stretch Goals:**
 * Learn how to swim
