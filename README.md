@@ -1,6 +1,6 @@
 # 👋 Hi, Meet NatNerd!
 
-**'almost datascientist' **
+**'almost datascientist'**
 
 I'm currently pursuing my bachelors in Data Science at the University of Tennessee, Go VOLS! I'm a ride or die passionate data scientist currently working on a research project under Dr. Jiagen He, CCI Research & Innovation analyzing the retention Professor Rate at HBCUs. Also, I enjoy perfoming analyses that draw insights for business impact in ecommerce, real estate, healthcare, etc. industries.  
 
