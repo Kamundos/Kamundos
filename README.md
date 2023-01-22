@@ -4,16 +4,15 @@
 
 I am a data science student at the University of Tennessee, where I am honing my skills in machine learning, statistical modeling, and data visualization. I am passionate about using data to solve real-world problems and drive business decisions and my passion has led me to take on a research project under Dr. Jiagen He, CCI Research & Innovation, where the team is <a href="https://hbcumobility.cci.drexel.edu"> examining the effects of academic mobility in HBCU professors</a>. 
 
-<p>&nbsp;</p> 
-
 Here, you will find a variety of projects that showcase my skills and interests in the field of data science. From predictive modeling to data visualization, I have worked on a diverse set of projects that demonstrate my ability to tackle complex problems and extract meaningful insights from data in various eCommerce, banking, real estate, healthcare, etc. 
 <p>&nbsp;</p> 
-**🌱Some of the highlights of my portfolio:**
+
+**🌱 Some of the highlights of my portfolio:**
 
 - A machine learning project that predicts customer churn for a telecommunications company
 - An NLP project that uses machine learning to classify customer feedback on a e-commerce website
 - A data visualization project that explores the relationship between crime rates and income in major US cities
-<p>&nbsp;</p> 
+
 **👀 Outside of school I enjoy:**
 
 - Voluntering: I volunteer at Women In Tech. 
