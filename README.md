@@ -1,4 +1,4 @@
-# 👋 Hi, Meet NatNerd!
+# 🧚🏽‍♂️  Hi, Meet NatNerd!
 
 **`Almost Data Scientist`**
 
