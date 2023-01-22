@@ -6,42 +6,33 @@ I am a data science student at the University of Tennessee, where I am honing my
 
 Here, you will find a variety of projects that showcase my skills and interests in the field of data science. From predictive modeling to data visualization, I have worked on a diverse set of projects that demonstrate my ability to tackle complex problems and extract meaningful insights from data in various eCommerce, banking, real estate, healthcare, etc. 
 
-**Some of the highlights of my portfolio:**
+**🌱 Some of the highlights of my portfolio:**
 
-
-A machine learning project that predicts customer churn for a telecommunications company
-A data visualization project that explores the relationship between crime rates and income in major US cities
-An NLP project that uses machine learning to classify customer feedback on a e-commerce website
-I am always looking for new and exciting opportunities to apply my skills and continue learning. If you have a project or problem that you think I can help with, feel free to reach out!
+- A machine learning project that predicts customer churn for a telecommunications company
+- An NLP project that uses machine learning to classify customer feedback on a e-commerce website
+- A data visualization project that explores the relationship between crime rates and income in major US cities
+- Machine Learning - I'm taking LinkedIN courses to learn the fundamental concepts of ML. 
 
 <p>&nbsp;</p> 
 
-**👀 Outside of school I enjoy:**
+**👀 Outside of school I enjoy: **
 
-- Writing: I run a blog [natlynn.com](https://natlynn.com), where I share tips about lifestyle living.\
-- Voluntering: I volunteer at Women In Tech. \
-- Eating carbs: All forms of bread and pasta are my life\
-- 📚 Learning: Did I mention, I love expanding my knowledge bandwidth. Recommend me your favorite LinkedIN Learning Courses. 
+- Voluntering: I volunteer at Women In Tech. 
+- Eating carbs: All forms of bread and pasta are my life. 
+- 👩🏽‍💻 Writing: I run a blog [natlynn.com](https://natlynn.com), where I share tips about lifestyle living. 
+- 📚 Learning: As I'm still new, I love expanding my knowledge bandwidth. Recommend me your favorite LinkedIN Learning Courses. 
   <p>&nbsp;</p>
-  
-**🌱 I’m currently learning**
-- Data Warehousing
-- Data Management & Stewardship 
-- Machine Learning - I'm taking LinkedIN courses to learn the fundamental concepts of ML. 
-
-<p>&nbsp;</p>  
-
+ 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2023 Goals | Progress Tracker
-* Read 20 books - Data Science Focused
-* Complete 100 ML and 100 DA Projects
+**2023 Goals | Progress Tracker: **
+- Read 20 books - Data Science Focused
+- Complete 100 ML and 100 DA Projects
   ** ML - 0/100
   ** DA - 1/100
 
-Stretch Goals:
+**Stretch Goals:
 * Learn how to swim
-* Publish 20
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
