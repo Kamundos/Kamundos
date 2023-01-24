@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <details>
- <summary><h5>👨‍💻 Nat's Data Science Journey</h3></summary>
+ <summary><h4>👨‍💻 Nat's Data Science Journey</h3></summary>
    I started my ds journey when I made the switch from engineering to data science late in my junior year in college because I couldn't see myself being anything else but as a data nerd (and it's seriuosly the best decision I've ever made). Ever since I've been playing catch up with not only my data science classes but also with my hard skills and I've relied on self learning to understand the data science field and get as much real world project analysis exposure as I could.
   <li>Fall 2022
     * Data 201
