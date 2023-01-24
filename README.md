@@ -1,4 +1,4 @@
-# 🧚🏽‍♂️ Hi, Welcome to my profile!
+# 🧚🏽‍♂️ Hi, I'm Nat!
 
 **`Almost Data Scientist`**
 
