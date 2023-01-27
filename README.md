@@ -18,7 +18,6 @@ Here, you will find a variety of projects that showcase my skills and interests 
 
 **👀 Outside of school I enjoy:**
 
-- Eating carbs: All forms of bread and pasta are my life. 
 - 👩🏽‍💻 Writing: I run a blog [natlynn.com](https://natlynn.com), where I share tips about lifestyle living. 
 - 📚 Learning: As I'm still new, I love expanding my knowledge bandwidth. Recommend me your favorite LinkedIN Learning Courses. 
   
