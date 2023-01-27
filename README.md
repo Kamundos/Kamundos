@@ -1,4 +1,4 @@
-# 🧚🏽‍♂️ Hi, I'm Nat!
+# 🧚🏽‍♂️ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=B6EEA6&vCenter=true&width=600&height=70&lines=Hi+there+,+i+am+Nathelen;+Welcome+to+My+Profile!;Data+Science+student;Aspiring+Machine+Learning+Engineer;Friend.)](https://git.io/typing-svg)
 
 **`Almost Data Scientist`**
 
