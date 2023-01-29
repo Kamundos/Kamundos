@@ -29,7 +29,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - Read 20 books - Data Science Focused
 - Complete 100 ML and 100 DA Projects
 - * ML - 0/100
-- * DA - 3/100
+- * DA - 5/100
 
 **Stretch Goals:**
 * Learn how to swim
