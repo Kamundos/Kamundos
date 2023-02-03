@@ -20,7 +20,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 
  <!---- 👩🏽‍💻 Writing: I run a blog [natlynn.com](https://natlynn.com), where I share tips about lifestyle living.
 - Rock climbing: I have recently been introduced to rock climbing and I've enjoyed it more than I should.
-- 📚 Learning: As I'm still new, I love expanding my knowledge bandwidth. Recommend me your favorite LinkedIN Learning Courses.  --->
+- 📚 Learning: As I'm still new, I love expanding my knowledge bandwidth. Recommend me your favorite LinkedIN Learning Courses.
   
   <p>&nbsp;</p>
  
