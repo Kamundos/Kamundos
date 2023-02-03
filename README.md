@@ -15,7 +15,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - A data visualization project that explores the relationship between crime rates and income in major US cities
 
 <p>&nbsp;</p> 
-
+ <!---- 
 **👀 Outside of school I enjoy:**
 
  <!---- 👩🏽‍💻 Writing: I run a blog [natlynn.com](https://natlynn.com), where I share tips about lifestyle living.
@@ -25,6 +25,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
   <p>&nbsp;</p>
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+--->
 <!---
 **2023 Goals | Progress Tracker:**
 - Read 20 books - Data Science Focused
