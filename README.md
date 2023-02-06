@@ -10,12 +10,21 @@ Here, you will find a variety of projects that showcase my skills and interests 
 
 **🌱 Some of the highlights of my portfolio:**
 
+- Customer Segmentation Analysis - Data cleaning & pre-processing 
+- Women's Clothing E-Commerce Reviews - Data pre-processing & NLP 
+- Superstore Marketing Campaign Analysis - Data cleaning & modeling 
+- E-Commerce Customer Experience Analysis - Data cleaning & modeling
+
+
+ <!---- 
+
+
 - A machine learning project that predicts customer churn for a telecommunications company
 - An NLP project that uses machine learning to classify customer feedback on a e-commerce website
 - A data visualization project that explores the relationship between crime rates and income in major US cities
 
 <p>&nbsp;</p> 
- <!---- 
+
 **👀 Outside of school I enjoy:**
 
  <!---- 👩🏽‍💻 Writing: I run a blog [natlynn.com](https://natlynn.com), where I share tips about lifestyle living.
