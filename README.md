@@ -13,7 +13,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - Customer Segmentation Analysis - Data cleaning & pre-processing 
 - Women's Clothing E-Commerce Reviews - Data pre-processing & NLP 
 - Superstore Marketing Campaign Analysis - Data cleaning & modeling 
-- < a href = "<https://github.com/Kamundos/Data-Science-Portfolio/tree/main/E-Commerce%20-%20EDA"> E-Commerce Customer Experience Analysis - Data cleaning & modeling </a> 
+- <a href = "<https://github.com/Kamundos/Data-Science-Portfolio/tree/main/E-Commerce%20-%20EDA"> E-Commerce Customer Experience Analysis - Data cleaning & modeling </a> 
 
 
  <!---- 
