@@ -13,7 +13,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - Customer Segmentation Analysis 
 - Women's Clothing E-Commerce Reviews 
 - Superstore Marketing Campaign Analysis 
-- <a href="https://github.com/Kamundos/Data-Science-Portfolio/tree/main/E-Commerce%20-%20EDA"> E-Commerce Customer Experience Analysis - Data cleaning & modeling </a> 
+- <a href="https://github.com/Kamundos/Data-Science-Portfolio/tree/main/E-Commerce%20-%20EDA"> E-Commerce Customer Experience Analysis </a> 
 
  <!---- 
 
