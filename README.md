@@ -12,7 +12,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 
 **🌱 Some of the highlights of my portfolio:**
 
-- Customer Segmentation Analysis 
+- <a href="https://github.com/Kamundos/Data-Science-Portfolio/blob/main/Customer%20Segmentation/customer-segmentation-analysis.ipynb"> Customer Segmentation Analysis </a>
 - Women's Clothing E-Commerce Reviews 
 - Superstore Marketing Campaign Analysis 
 - <a href="https://github.com/Kamundos/Data-Science-Portfolio/tree/main/E-Commerce%20-%20EDA"> E-Commerce Customer Experience Analysis </a> 
