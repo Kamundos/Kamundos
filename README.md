@@ -17,6 +17,10 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - Superstore Marketing Campaign Analysis 
 - <a href="https://github.com/Kamundos/Data-Science-Portfolio/blob/main/E-Commerce%20-%20EDA/e-commerce-purchase-eda.ipynb"> E-Commerce Customer Experience Analysis </a> 
 
+
+**Learning:**
+- I'm currently going an introductry machine learning course and slowly implemeting those concepts to the projects I have above. 
+
  <!---- 
 
 
