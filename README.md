@@ -8,7 +8,7 @@ I am a data science student at the University of Tennessee, where I am honing my
 Here, you will find a variety of projects that showcase my skills and interests in the field of data science. 
 
  <!---- From predictive modeling to data visualization, I have worked on a diverse set of projects that demonstrate my ability to tackle complex problems and extract meaningful insights from data in various eCommerce, banking, real estate, healthcare, etc. 
-<p>&nbsp;</p> --->
+<p>&nbsp;</p>--->
 
 **🌱 Some of the highlights of my portfolio:**
 
