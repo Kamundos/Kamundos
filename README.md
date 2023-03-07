@@ -62,7 +62,7 @@ Source: --->
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-** Connect/Collaborate with ME **
+** Connect/Collaborate with ME *
 
 LinkedIN: www.linkedin.com/in/nathelenwanjiru \
 Email: nwanjiru@vols.utk.edu
