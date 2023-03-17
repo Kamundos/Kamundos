@@ -12,7 +12,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 
 **🌱 Some of the highlights of my portfolio 🌱**
 
-**Python Data Science:**
+**Data Science:**
 
 - <a href="https://github.com/Kamundos/Data-Science-Portfolio/blob/main/Customer%20Segmentation/customer-segmentation-analysis.ipynb"> Customer Segmentation Analysis </a>
 - <a href = "https://github.com/Kamundos/Data-Science-Portfolio/blob/main/Women's%20Clothing%20E-Comm/women-s-clothing-e-comm-reviews-nlp.ipynb"> Women's Clothing E-Commerce Reviews </a>
@@ -21,7 +21,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 
 **Visualization:**
 
-<a href="https://myutk.maps.arcgis.com/apps/dashboards/091c527b968b4e8780758850881e4265"> Tennessee Counties COVID-19 Tracking </a>
+- <a href="https://myutk.maps.arcgis.com/apps/dashboards/091c527b968b4e8780758850881e4265"> Tennessee Counties COVID-19 Tracking </a>
 
 
 
