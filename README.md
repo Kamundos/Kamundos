@@ -12,8 +12,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 
 **🌱 Some of the highlights of my portfolio 🌱**
 
-** ![icons8-venn-diagram-64](https://user-images.githubusercontent.com/99308219/226022525-ba46c65a-aaca-41d3-8ce1-284d5ce095f5.png)
-Data Science:**
+**Data Science:**
 
 - <a href="https://github.com/Kamundos/Data-Science-Portfolio/blob/main/Customer%20Segmentation/customer-segmentation-analysis.ipynb"> Customer Segmentation Analysis </a>
 - <a href = "https://github.com/Kamundos/Data-Science-Portfolio/blob/main/Women's%20Clothing%20E-Comm/women-s-clothing-e-comm-reviews-nlp.ipynb"> Women's Clothing E-Commerce Reviews </a>
