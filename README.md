@@ -12,7 +12,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 
 **🌱 Some of the highlights of my portfolio 🌱**
 
-** ![icons8-venn-diagram-50](https://user-images.githubusercontent.com/99308219/226020892-5e0521ba-35b6-4730-bc85-138890d7c1da.png)
+** ![icons8-venn-diagram-64](https://user-images.githubusercontent.com/99308219/226022525-ba46c65a-aaca-41d3-8ce1-284d5ce095f5.png)
 Data Science:**
 
 - <a href="https://github.com/Kamundos/Data-Science-Portfolio/blob/main/Customer%20Segmentation/customer-segmentation-analysis.ipynb"> Customer Segmentation Analysis </a>
