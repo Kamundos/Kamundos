@@ -10,7 +10,9 @@ Here, you will find a variety of projects that showcase my skills and interests 
  <!---- From predictive modeling to data visualization, I have worked on a diverse set of projects that demonstrate my ability to tackle complex problems and extract meaningful insights from data in various eCommerce, banking, real estate, healthcare, etc. 
 <p>&nbsp;</p>--->
 
-**🌱 Some of the highlights of my portfolio:**
+**🌱 Some of the highlights of my portfolio 🌱**
+
+**Python Data Science:**
 
 - <a href="https://github.com/Kamundos/Data-Science-Portfolio/blob/main/Customer%20Segmentation/customer-segmentation-analysis.ipynb"> Customer Segmentation Analysis </a>
 - <a href = "https://github.com/Kamundos/Data-Science-Portfolio/blob/main/Women's%20Clothing%20E-Comm/women-s-clothing-e-comm-reviews-nlp.ipynb"> Women's Clothing E-Commerce Reviews </a>
