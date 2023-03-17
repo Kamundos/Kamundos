@@ -17,6 +17,12 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - Superstore Marketing Campaign Analysis 
 - <a href="https://github.com/Kamundos/Data-Science-Portfolio/blob/main/E-Commerce%20-%20EDA/e-commerce-purchase-eda.ipynb"> E-Commerce Customer Experience Analysis </a> 
 
+**Visualization:**
+
+<a href="https://myutk.maps.arcgis.com/apps/dashboards/091c527b968b4e8780758850881e4265"> Tennessee Counties COVID-19 Tracking </a>
+
+
+
 <!---- 
 <a href="https://github.com/kamundos">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensorario&langs_count=8&theme=calm&layout=compact" width="48%"/>
