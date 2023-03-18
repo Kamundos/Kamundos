@@ -10,15 +10,15 @@ I am a data science student at the University of Tennessee, where I am honing my
  From predictive modeling to data visualization, I have worked on a diverse set of projects that demonstrate my ability to tackle complex problems and extract meaningful insights from data in various eCommerce, banking, real estate, healthcare, etc. 
 <p>&nbsp;</p>--->
 
-**🌱 Some of the highlights of my portfolio 🌱**
-</p>
-
+**🌱 Some of the highlights of my portfolio 🌱** </p>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 **Data Science:**
 
 - <a href="https://github.com/Kamundos/Data-Science-Portfolio/blob/main/Customer%20Segmentation/customer-segmentation-analysis.ipynb"> Customer Segmentation Analysis </a>
 - <a href = "https://github.com/Kamundos/Data-Science-Portfolio/blob/main/Women's%20Clothing%20E-Comm/women-s-clothing-e-comm-reviews-nlp.ipynb"> Women's Clothing E-Commerce Reviews </a>
 - Superstore Marketing Campaign Analysis 
 - <a href="https://github.com/Kamundos/Data-Science-Portfolio/blob/main/E-Commerce%20-%20EDA/e-commerce-purchase-eda.ipynb"> E-Commerce Customer Experience Analysis </a> 
+</p>
 
 **📈 Visualization:**
 
