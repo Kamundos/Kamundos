@@ -25,6 +25,9 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - <a href="https://public.tableau.com/app/profile/nathelenwanjiru/viz/airbnb_nyc_16788654686230/Dashboard1"> Airbnb in NYC </a>
    + Software: Tableau
 
+- <a href="https://public.tableau.com/app/profile/nathelenwanjiru/viz/RxPrescriptionProfitMarketAnalysis/RxPrescriptionProfitsMarketAnalysis"> Rx Prescription Profits Market Analysis </a>
+   + Software: Tableau
+
 - <a href="https://myutk.maps.arcgis.com/apps/dashboards/091c527b968b4e8780758850881e4265"> Tennessee Counties COVID-19 Tracking </a>
    + Software: ArcGIS
 
