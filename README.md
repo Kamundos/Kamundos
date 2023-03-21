@@ -44,7 +44,7 @@ Source: --->
 
  <!---- 
 **Learning:**
-- I'm currently going an introductry machine learning course and slowly implemeting those concepts to the projects I have above. 
+- I'm currently going an introductry machine learning course and slowly implementing those concepts to the projects I have above. 
 
 ***
 - A machine learning project that predicts customer churn for a telecommunications company
