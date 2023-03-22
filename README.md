@@ -20,7 +20,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 - <a href="https://github.com/Kamundos/Data-Science-Portfolio/blob/main/E-Commerce%20-%20EDA/e-commerce-purchase-eda.ipynb"> E-Commerce Customer Experience Analysis </a> 
 </p>
 
-**Visualization:**
+**📈 Visualization:**
 
 
 - <a href="https://public.tableau.com/app/profile/nathelenwanjiru/viz/StateUnemploymentInsurance/USUnemployementInsurance"> US Unemployment Insurance </a>
