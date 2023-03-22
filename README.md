@@ -23,7 +23,7 @@ Here, you will find a variety of projects that showcase my skills and interests 
 **📈 Visualization:**
 
 
-- <a href="https://public.tableau.com/app/profile/nathelenwanjiru/viz/StateUnemploymentInsurance/TotalNon-ExemptExemptUIRecepientsPerState"> US Unemployment Insurance </a>
+- <a href="https://public.tableau.com/app/profile/nathelenwanjiru/viz/StateUnemploymentInsurance/USUnemployementInsurance"> US Unemployment Insurance </a>
    + Software: Tableau
 
 - <a href="https://public.tableau.com/app/profile/nathelenwanjiru/viz/airbnb_nyc_16788654686230/Dashboard1"> Airbnb in NYC </a>
